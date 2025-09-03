@@ -8,7 +8,7 @@
 - 📄 Ознакомиться с моим опытом: [Резюме](https://hh.ru/resume/9ee8adf8ff0f579bcc0039ed1f507859394e65) 
 
 ### 🛠️ Мой стек технологий:
-#### <font color="#0D6EFD">ПРОДВИНУТЫЙ УРОВЕНЬ</font>
+#### ПРОДВИНУТЫЙ УРОВЕНЬ
 **Frontend & Верстка:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +17,7 @@
 ![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Grid Layout](https://img.shields.io/badge/Grid_Layout-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### <span style="color: #ce9eff">СРЕДНИЙ УРОВЕНЬ</span>
+#### СРЕДНИЙ УРОВЕНЬ
 **Языки & Фреймворки:**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,7 +39,7 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-#### <span style="color: #ce9eff">БАЗОВЫЙ УРОВЕНЬ (другие технологии)</span>
+#### БАЗОВЫЙ УРОВЕНЬ (другие технологии)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
